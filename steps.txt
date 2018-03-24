@@ -1,0 +1,15 @@
+git init
+git remote add orgin "https://github.com/Sultanashazath/sultana_6215_025.git"
+git push -u orgin master
+git add one.txt
+git status
+git commit -m "new files adding"
+git config --global user.email
+git config --global user.name
+
+
+git push -u orgin master --> it ask user id aand passwrd
+
+git branch slave1
+git checkout slave1
+
