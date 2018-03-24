@@ -4,12 +4,15 @@ git push -u orgin master
 git add one.txt
 git status
 git commit -m "new files adding"
-git config --global user.email
-git config --global user.name
+git config --global user.email  //its not imp
+git config --global user.name  //its not imp
 
 
 git push -u orgin master --> it ask user id aand passwrd
 
 git branch slave1
 git checkout slave1
+ create a file --> git add steps
+ls--> shows all files
+
 
